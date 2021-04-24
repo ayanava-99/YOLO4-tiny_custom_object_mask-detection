@@ -1,5 +1,6 @@
 
 # **Mask detection using custom YOLOv4 object detector**
+Training our custom detector for mask detection using YOLOv4-tiny and Darknet. YOLOv4-tiny is preferable for real-time object detection because of its faster inference time.
 
 The **yolov4** folder in this repository contains the 4 custom files needed. (i.e. **yolov4-custom.cfg**, **obj.data**, **obj.names** and **process.py**) except **obj.zip**(labeled images). I have shared my labeled custom mask dataset **obj.zip** file on the following link. You can download it from here.
 
